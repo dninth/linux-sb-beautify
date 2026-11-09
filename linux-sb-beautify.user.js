@@ -1,10 +1,10 @@
-// @updateURL    https://raw.githubusercontent.com/xiaomeng-0126/linux-sb-beautify/main/linux-sb-beautify.user.js
-// @downloadURL  https://raw.githubusercontent.com/xiaomeng-0126/linux-sb-beautify/main/linux-sb-beautify.user.js
-
 // ==UserScript==
 // @name         LINUX SB · 圆角卡片美化
 // @namespace    local.linux-sb.card-theme
-// @version      1.0.0
+// @version      1.0.1
+// @homepageURL  https://github.com/dninth/linux-sb-beautify
+// @updateURL    https://raw.githubusercontent.com/dninth/linux-sb-beautify/main/linux-sb-beautify.user.js
+// @downloadURL  https://raw.githubusercontent.com/dninth/linux-sb-beautify/main/linux-sb-beautify.user.js
 // @description  独立圆角卡片、宽松留白、舒适阅读；支持浅深色、三种强调色、字号与间距设置。
 // @match        https://linux.sb/*
 // @match        http://linux.sb/*
